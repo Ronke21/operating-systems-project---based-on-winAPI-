@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\ronke\Desktop\תשפ''א סמסטר א'\מערכות הפעלה\תרגיל סיכום קורס\FinalProject_RonKeinan203735857\Client\Client.cpp(52,20): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\ronke\Desktop\תשפ''א סמסטר א'\מערכות הפעלה\תרגיל סיכום קורס\FinalProject_RonKeinan203735857\Debug\Client.exe
